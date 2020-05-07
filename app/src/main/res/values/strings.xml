@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Weather App</string>
+    <string name="nav_header_subtitle">CS123 final project</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_location">Location</string>
+    <string name="menu_setting">Setting</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="notify">Notify</string>
+    <string name="cancel">Cancel</string>
+    <string name="temperature_unit_setting">Temperature Unit</string>
+    <string name="update_title">Weather Update</string>
+    <string name="auto_update_setting">Auto update weather information</string>
+    <string name="f_degree">\u2109</string>
+    <string name="c_degree">\u2103</string>
+    <string name="app_setting">Settings</string>
+    <string name="send_notification_setting">Send Notification</string>
+    <string name="location_switch_label">Current location</string>
+    <string name="location_list_label">Locations</string>
+</resources>
