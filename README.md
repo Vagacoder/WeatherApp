@@ -1,12 +1,16 @@
 # WeatherApp
 [![Weatherapp](https://img.shields.io/badge/WeatherApp-Android-orange)](https://github.com/Vagacoder/WeatherApp)
-[![License](https://img.shields.io/badge/License-MIT-orange)](https://opensource.org/licenses/mit-license.php)
+[![License](https://img.shields.io/badge/License-MIT-orange)](license.txt)
 
 WeatherApp is an Android App.
 
-![MainUI]()
+![MainUI](pics/MainActivity.png)
 
-![Setting]()
+![Navigation](pics/NavigationDrawer.png)
+
+![Location](pics/Location.png)
+
+![Setting](pics/Setting.png)
 
 ## Software Requirement Specification
 [![SRS](https://img.shields.io/badge/WeatherApp-SRS-orange)](https://docs.google.com/document/d/11PlzlGpMxITHS5HhDtIMljjLbUAUV1mA3qXGIWVZVJk/edit?usp=sharing)
